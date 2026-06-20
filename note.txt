@@ -1,0 +1,17 @@
+Cara menjalankan project Aniquest:
+
+Langkah-langkah
+1. Buka terminal (PowerShell atau Command Prompt)
+
+2. Masuk ke folder project:
+
+cd "F:\Program\SoloDND"
+3. Install dependencies (hanya perlu sekali, atau jika node_modules belum ada):
+
+npm install
+4. Jalankan development server:
+
+npm run dev
+5. Buka browser, akses:
+
+http://localhost:5173
